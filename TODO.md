@@ -1,0 +1,45 @@
+# New Outline
+- Day 1 Session 1 Introduction
+- Day 1 Session 2 Getting Started
+- Day 1 Session 3 JUnit Fundamentals
+- Day 1 Session 4 3 Laws of TDD, Red-Green-Refactor
+- Day 1 Session 5 Transformation Priority Premise
+- Day 1 Session 6 Parameterized Tests
+- Day 1 Session 7 TestNG Fundamentals, Test Hierarchies
+- Day 1 Session 8
+- Day 2 Session 1
+- Day 2 Session 2
+- Day 2 Session 3
+- Day 2 Session 4
+- Day 2 Session 5
+- Day 2 Session 6
+- Day 2 Session 7
+- Day 2 Session 8
+
+# TODO
+- Testing Spring
+- Comparison JUnit 3, JUnit 4, JUnit 5, TestNG
+- How to port from JUnit 3 to JUnit 4
+- How to port from JUnit 4 to JUnit 5
+- Test hierarchies with TestNG
+- Using JUnit with UI Automation like Selenium or Appium
+- Using Junit with API Automation like RestAssured
+- Cucumber
+    - Dependency Injection for Cucumber with PicoContainer, Spring, Guice, OpenEJB, Weld, Needle
+    - Cucumber Tags
+    - Cucumber Parameter Types, Custom Types
+    - Optional Text
+    - Hooks
+    - Using Cucumber with UI Automation like Selenium or Appium
+    - Using Cucumber with API Automation like RestAssured
+- test && commit || revert exercise
+- Coverage with Jacoco
+- Integration with Jenkins
+- Integration with SonarQube
+- Mutation Testing with Pitest
+- Mocking
+    - Ontology of Test Doubles
+    - Mockito
+    - EasyMock
+    - PowerMock
+    - London vs Chicago
